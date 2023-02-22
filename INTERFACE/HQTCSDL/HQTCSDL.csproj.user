@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_DK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_QLTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_TK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DANGKY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_CH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_CTDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_DH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_THD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DANGNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_HD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOITAC_TK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GIOHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG_CTDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG_DH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG_MA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG_QLDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG_TK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NHANVIEN_HDCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NHANVIEN_HDDD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NHANVIEN_TK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TAIXE_TK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TAIXE_DH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TAIXE_CTDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TAIXE_TN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TAIXE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
