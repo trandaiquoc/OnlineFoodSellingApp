@@ -1,0 +1,150 @@
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.exe
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.deps.json
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.runtimeconfig.json
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.dll
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.pdb
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.AssemblyReference.cache
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form1.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.GenerateResource.cache
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.AssemblyInfoInputs.cache
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.AssemblyInfo.cs
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.CoreCompileInputs.cache
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.dll
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\refint\HQTCSDL.dll
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.pdb
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.genruntimeconfig.cache
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\ref\HQTCSDL.dll
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Properties.Resources.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form2.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form3.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form4.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form5.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form6.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form7.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form8.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form9.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form10.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form11.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form12.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form13.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form14.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form15.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form16.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form17.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form18.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form19.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form20.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form21.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form22.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form23.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form24.resources
+D:\SEMESTER 1\HQT CSDL\PROJECT\HQTCSDL\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Form25.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.exe
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.deps.json
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.runtimeconfig.json
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.pdb
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Properties.Resources.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\refint\HQTCSDL.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.pdb
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\ref\HQTCSDL.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_CTDH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_DH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_TK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_TN.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.CopyComplete
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DANGKY.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_DH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_QLDH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_TK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_CTDH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.GIOHANG.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_MA.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN_QLTK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN_TK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN_HDCD.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN_HDDD.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN_TK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN_DK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_TK.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_HD.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_THD.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_CH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_DH.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_SP.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DANGNHAP.resources
+C:\Users\ASUS\Downloads\New folder\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_CTDH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.exe
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.deps.json
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.runtimeconfig.json
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\HQTCSDL.pdb
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN_DK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN_QLTK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.ADMIN_TK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DANGKY.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DANGNHAP.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_CH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_CTDH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_DH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_HD.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_SP.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_THD.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.DOITAC_TK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.GIOHANG.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_CTDH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_DH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_MA.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_QLDH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.KHACHHANG_TK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN_HDCD.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN_HDDD.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.NHANVIEN_TK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.Properties.Resources.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_CTDH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_DH.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_TK.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.TAIXE_TN.resources
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.csproj.CopyComplete
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\refint\HQTCSDL.dll
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.pdb
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\HQTCSDL.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\CSDLNC\INTERFACE\HQTCSDL\obj\Debug\net6.0-windows\ref\HQTCSDL.dll
